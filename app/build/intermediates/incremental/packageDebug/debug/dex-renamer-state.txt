@@ -1,0 +1,4 @@
+#Tue Jul 10 09:24:55 AMT 2018
+base.0=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [:CordovaLib] /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:5:5-31
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:6:5-63
+	android:versionCode
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:8:5-14:40
+	android:largeScreens
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:9:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:15:22-64
+application
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:16:5-45:19
+	android:supportsRtl
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:hardwareAccelerated
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:icon
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:18:9-36
+activity#io.ionic.starter.MainActivity
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:21:9-44:20
+	android:label
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:23:13-50
+	android:launchMode
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:24:13-43
+	android:windowSoftInputMode
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:27:13-55
+	android:configChanges
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:22:13-90
+	android:theme
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:26:13-75
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:25:13-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+data:scheme:@string/launcher_name
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:28:13-32:29
+	android:label
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:28:28-65
+data
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:29:17-64
+	android:host
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:41:21-59
+	android:scheme
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:29:23-61
+	android:pathPrefix
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:42:21-48
+action#android.intent.action.MAIN
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:31:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:consultasaj.tjam.jus.br+data:pathPrefix:/cpopg+data:scheme:http
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:37:27-75
+uses-sdk
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:46:5-48:41
+MERGED from [:CordovaLib] /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+	android:targetSdkVersion
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:48:9-38
+	android:minSdkVersion
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:47:9-35
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:49:5-71
+	android:name
+		ADDED from /mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/AndroidManifest.xml:49:22-68

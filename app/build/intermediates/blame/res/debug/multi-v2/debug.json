@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,3",
+                        "startColumns": "-1,-1,4",
+                        "startOffsets": "-1,-1,107",
+                        "endColumns": "-1,-1,46",
+                        "endOffsets": "-1,-1,149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,171",
+                        "endColumns": "63,51,46",
+                        "endOffsets": "114,166,213"
+                    }
+                }
+            ]
+        }
+    ]
+}

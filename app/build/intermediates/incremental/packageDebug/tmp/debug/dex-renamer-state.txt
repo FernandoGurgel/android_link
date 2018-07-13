@@ -1,0 +1,19 @@
+#Fri Jul 13 08:55:54 AMT 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/16
+base.4=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/11
+base.3=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/14
+base.2=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/12
+base.1=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/15
+base.0=/mnt/0eae5fa5-5056-473f-b019-9a2791ca5196/ionic/arvore-decisao/platforms/android/app/build/intermediates/transforms/dexMerger/debug/13
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
